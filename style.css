@@ -1,0 +1,55 @@
+body { 
+	background-color: #C8E3D4;
+	color: green;
+	font-family: 'Roboto', sans-serif;
+	font-size: 10px;
+	line-height: 1.6;
+	letter-spacing: 1px;
+	font-weight: bold;
+	text-align: center;
+
+} 
+
+h1 {
+	color: purple;
+	font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+	color: purple;
+	font-family: 'Roboto', sans-serif;
+}
+
+div {
+	background: white;
+	border: 2px solid black;
+	margin: 10px;
+	box-shadow: 0px 10px 30px 
+	padding: 40px;
+} 
+
+.photo-id {
+	width: 200px;
+	text-align: center;
+}
+
+.img-circle {
+	border-radius: 50%;
+
+} 
+
+div {
+	border-top:1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	box-shadow: 2px 2px 3px black
+}
+
+.card-white {
+	width: 900px;
+	margin: 40px auto;
+}
+
+
+
